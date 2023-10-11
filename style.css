@@ -1,0 +1,38 @@
+/*img გავუკეთე ფონად body ელემენტს*/
+body {
+    background-color: rgb(180, 178, 178);
+}
+/* პირველი პარაგრაფ ტეგის სელექტორი */
+#lorem1{
+    color: #000000;
+    margin-top: 25px;
+    margin-left: 33px;
+}
+/*მეორე პარაგრაფ ტეგის სელექტორი*/
+#ipsum1 {
+    width: 1040px;
+    color: #FF0000;
+    margin-left: 36px;
+}
+/*მესამე პარაგრაფ ტეგის სელექტორი*/
+#lorem2 {
+    color: #2400FF;
+    margin-left: 33px;
+}
+/*მეოთხე პარაგრაფ ტეგის სელექტორი*/
+#ipsum2 {
+    color: #FF2929;
+    margin-left: 36px;
+    width: 1040px;
+}
+/*მეხუთე პარაგრაფ ტეგის სელექტორი*/
+#lorem3 {
+     color: #00461C;
+     margin-left: 33px;
+}
+/*მეექვსვე პარაგრაფ ტეგის სელექტორი*/
+#ipsum3 {
+    color: #000000;
+    margin-left: 36px;
+    width: 1040px;
+}
